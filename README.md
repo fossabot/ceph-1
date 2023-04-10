@@ -1,4 +1,6 @@
 # Ceph - a scalable distributed storage system
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbozhou2010%2Fceph.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbozhou2010%2Fceph?ref=badge_shield)
+
 
 Please see http://ceph.com/ for current info.
 
@@ -201,3 +203,7 @@ To build the documentation, ensure that you are in the top-level
 
 	admin/build-doc
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbozhou2010%2Fceph.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbozhou2010%2Fceph?ref=badge_large)
